@@ -1,0 +1,12 @@
+create jira for the repository
+include following tasks
+
+select woe set only
+rank types of cards as per following tags
+    removal
+    draw
+    graveyard recursion
+    creature type
+        all types included in the set
+
+
